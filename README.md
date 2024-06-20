@@ -1,6 +1,6 @@
 # SubGeek
 
-SubGeek is a simple subdomain enumeration tool written in Python. It uses DNS resolution and HTTP requests to discover subdomains of a given domain.
+SubGeek is a powerful subdomain enumeration tool with 40,000+ in-built wordlists. It uses DNS resolution and HTTP requests to discover subdomains of a given domain.
 
 ## Features
 
