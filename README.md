@@ -25,7 +25,15 @@ SubGeek is a simple subdomain enumeration tool written in Python. It uses DNS re
 2. 
 Install Dependencies:
 
-```bash
-pip install requests dnspython
+   ```bash
+    pip install requests dnspython
 
-3. Run the script ```bash python main.py
+
+3. Run the script:
+    ```bash
+   python main.py
+
+Example: 
+$ python main.py
+Enter the domain to enumerate subdomains for: example.com
+
